@@ -67,7 +67,7 @@ Go package:The INI configuration file read and write.
 ##Install
 go get github.com/0x55/goconfig
 
-	include config package：
+include config package：
 	
 	import (
 		"github.com/0x55/goconfig"
