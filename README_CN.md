@@ -71,6 +71,7 @@ Go config包：读写ini配置文件。
 go get github.com/0x55/goconfig
 
 你的代码加载config包：
+
 	import (
 		"github.com/0x55/goconfig"
 	)
